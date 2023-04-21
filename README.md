@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bosulliv
-- 👀 I’m interested in using machine learning to solve problems.
+- 👀 I love using machine learning to solve problems.
 
 <!---
 bosulliv/bosulliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
